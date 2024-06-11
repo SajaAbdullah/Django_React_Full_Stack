@@ -1,2 +1,3 @@
 ## About Project 
-a learning based project regard best practices should be followed in django project 
+a learning-based project regarding best practices that should be followed in Django (Python) projects.
+
